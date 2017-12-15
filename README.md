@@ -6,4 +6,4 @@ Assignment 2 - Buffer Manager: Implement a buffer manager that manages a buffer 
 
 Assignment 3 - Record Manager: Implement a simple record manager that allows navigation through records, and inserting and deleting records
 
-WARNING - Just use this code as reference, DO NOT plagiarize by copying any code from this repository. WARNING - Just use this code as reference, DO NOT plagiarize by copying any code from this repository. You will get caught violating the honor code.
+WARNING - Just use this code as reference, DO NOT plagiarize by copying any code from this repository. You will get caught violating the honor code.
